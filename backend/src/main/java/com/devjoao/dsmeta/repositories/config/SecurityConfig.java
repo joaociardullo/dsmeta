@@ -1,4 +1,4 @@
-package com.devjoao.dsmeta.config;
+package com.devjoao.dsmeta.repositories.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
